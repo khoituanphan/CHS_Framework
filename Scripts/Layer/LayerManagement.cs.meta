@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0c5aff78180ebf4468a879a7525af371
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scrollObject: {instanceID: 0}
+  - explore21Object: {fileID: 919132149155446097, guid: a640b58748fe2bf45b0386b1a62d1c5c,
+      type: 3}
+  - explodeObject: {fileID: 919132149155446097, guid: 80f9c487e786bee4aac9be1919b33cb3,
+      type: 3}
+  - skullObject: {instanceID: 0}
+  - annotationToggle: {instanceID: 0}
+  - annotationButton: {instanceID: 0}
+  - playButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
